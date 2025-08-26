@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-blue?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge)
 
-A simple **E-commerce Cart System** built using ** JavaScript**.  
+A simple **E-commerce Cart System** built using **JavaScript**.  
 This project demonstrates how to manage a shopping cart with **arrays, objects, loops, and functions**.  
 
 ---
@@ -87,6 +87,7 @@ Open a Pull Request 🎉
 
 **Kishore Lavuri**  
 📌 [GitHub](https://github.com/kishorelavuri) | [LinkedIn](https://linkedin.com/in/kishorelavuri) | [Medium](https://medium.com/@kishorelavuri)
+
 
 
 
