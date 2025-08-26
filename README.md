@@ -86,7 +86,13 @@ Open a Pull Request 🎉
 
 Kishore Lavuri
 
-<a href="https://github.com/kishorelavuri"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/> </a> <a href="https://linkedin.com/in/kishorelavuri"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a> <a href="https://medium.com/@kishorelavuri"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30" height="30"/> </a> ```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorelavuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishorelavuri)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kishorelavuri)
+
+
+```
+
 
 
 
