@@ -82,19 +82,12 @@ Commit changes
 Open a Pull Request 🎉
 
 
-## 🧑 Author  
+🧑 Author
 
-**Kishore Lavuri**  
+Kishore Lavuri
 
-<a href="https://github.com/kishorelavuri">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
-</a>
-<a href="https://linkedin.com/in/kishorelavuri">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</a>
-<a href="https://medium.com/@kishorelavuri">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30" height="30"/>
-</a>
+<a href="https://github.com/kishorelavuri"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/> </a> <a href="https://linkedin.com/in/kishorelavuri"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a> <a href="https://medium.com/@kishorelavuri"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30" height="30"/> </a> ```
+
 
 
 
