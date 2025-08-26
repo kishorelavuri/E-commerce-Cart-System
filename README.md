@@ -81,12 +81,15 @@ Commit changes
 
 Open a Pull Request 🎉
 
-🧑 Author
 
 ## 🧑 Author  
 
 **Kishore Lavuri**  
-📌 [GitHub](https://github.com/kishorelavuri) | [LinkedIn](https://linkedin.com/in/kishorelavuri) | [Medium](https://medium.com/@kishorelavuri)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorelavuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishorelavuri)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kishorelavuri)
+
 
 
 
